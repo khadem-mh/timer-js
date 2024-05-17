@@ -15,7 +15,7 @@ Create a beautiful timer with the JavaScript programming language
 
 ## View of the Project
 
-<img src="./Video/timer.gif" width="400"/>
+<img src="./Video/timer.gif" width="500"/>
 
 ___
 >### Social Network
