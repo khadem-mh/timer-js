@@ -1,7 +1,5 @@
-
-
-# <p align="center"> Hi there 👋 I'm Mohammad Hossein 👨‍💻 </p>
- <p align="center"> React Js expert and FrontEnd Developer from Iran.</p>
+## <p align="center">Hi 👋 I'm an expert on React Js 👨‍💻 Next JS and FrontEnd Web Developer.</p>
+<br/><br/>
 
 <br/><br/><br/>
 Create a beautiful timer with the JavaScript programming language
