@@ -1,7 +1,5 @@
-## <p align="center">Hi 👋 I'm an expert on React Js 👨‍💻 Next JS and FrontEnd Web Developer.</p>
-<br/><br/>
+# <p align="center">Hi 👋 I'm an expert on React Js 👨‍💻 Next JS</p>
 
-<br/><br/><br/>
 Create a beautiful timer with the JavaScript programming language
 
 >### Languages
